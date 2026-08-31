@@ -21,3 +21,18 @@ created as part of my technical writing development.
 - API Documentation
 - Docs-as-Code
 - AI-Assisted Documentation
+
+## Projects
+
+### SupportAI Documentation
+
+A sample documentation project for an AI-powered customer
+support platform.
+
+Documentation includes:
+
+- Getting Started guides
+- Conceptual documentation
+- How-to guides
+- API documentation
+- Troubleshooting
