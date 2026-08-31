@@ -25,7 +25,7 @@ This documentation is intended for:
 - Technical teams managing AI agents
 - Product and support teams working with SupportAI
 
-## Getting started
+## Get started
 
 If you're new to SupportAI, start with the following steps:
 
