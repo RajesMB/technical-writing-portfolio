@@ -42,3 +42,12 @@ conceptual documentation to understand how SupportAI works.
 
 You can then move on to the API documentation and
 developer guides.
+
+## Example API request
+
+You can use the SupportAI API to interact with your AI agent.
+
+```bash
+curl https://api.supportai.example/v1/agents \
+  -H "Authorization: Bearer YOUR_API_KEY"
+```
