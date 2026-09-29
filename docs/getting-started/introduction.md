@@ -73,3 +73,6 @@ SupportAI dashboard.
 
 After your agent is created, you can test it from the agent
 playground.
+
+For information about authenticating API requests, see the
+[API authentication guide](../api/authentication.md).
