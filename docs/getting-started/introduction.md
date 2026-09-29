@@ -76,3 +76,21 @@ playground.
 
 For information about authenticating API requests, see the
 [API authentication guide](../api/authentication.md).
+
+## Supported environments
+
+| Environment | Supported |
+|---|---|
+| Web application | Yes |
+| REST API | Yes |
+| JavaScript SDK | Yes |
+| Python SDK | Coming soon |
+
+> [!NOTE]
+> You need an API key to make authenticated requests to the
+> SupportAI API.
+
+```bash
+curl https://api.supportai.example/v1/agents \
+  -H "Authorization: Bearer YOUR_API_KEY"
+```
